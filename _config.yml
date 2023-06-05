@@ -9,7 +9,7 @@ version: 2
 name: Kenny Tang
 title: Aspiring Data Scientist
 email: kennytang0204@gmail.com
-website: www.github.com/kennyta0204/kennyta0204.github.io
+website: https://kennyta0204.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
