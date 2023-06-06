@@ -90,15 +90,26 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: university of Michigan
+        title: University of Michigan, Ann Arbor
         caption: 2022 - 2023
         sub_title: Masters of Applied Data Science
         quote: >
-          Econometrics was one of the only courses from my undergraduate studies that truly interested me. "If you like [econometrics], consider further studies in data science." - Professor Matzkins (My advance econometrics professor) to me
+          Econometrics was one of the only courses from my undergraduate studies that truly interested me. "If you like [econometrics]..., consider further studies in data science." - Professor Matzkins (My advance econometrics professor) to me
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at this program, I acquired the key skills and knowledge required of a data scientist. I have learned to clean and preprocess various types of data, create stunning visualizations that comply with the grammar of graphics, train and evaluate machine learning/neural network models to solve complex problems, create pipelines to support such models, and interperet/share results.
+          
+          I believe that the focus of one's studies should not only be how to do things, but also why we do things. With this mentality, I have absorbed vast knowledge on when techiniques and methods are appropriate or more fitting than others depending on the task.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Other than the foundational courses one would expect out of a data science ciriculum, I have taken social media analytics and reinforcement learning.
+      
+      - layout: left
+        title: University of California, Los Angeles
+        caption: 2017 - 2019
+        sub_title: Bachelors in Economics
+        quote: >
+          testing
+        description:
+          testing testing testing
 
   - title: A Little More About Me
     layout: text
