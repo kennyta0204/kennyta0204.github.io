@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Used Cars Reccomender System
-        link: https://github.com/kennyta0204/Cars
+        link: <a href= "https://github.com/kennyta0204/Cars">kennyta0204/Cars<\a>
         # link_text: Project Website
         additional_links:
           - title:  Cars
