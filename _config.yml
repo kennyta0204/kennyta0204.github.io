@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Used Cars Reccomender System
-        link: kennyta0204/Cars
+        link: https://github.com/kennyta0204/Cars
         # link_text: Project Website
         additional_links:
           - title:  Cars
@@ -68,9 +68,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Ever have a friend come to you for advice regarding what car they should get? You hear their criteria and try to think of all the possible vehicles that fit their description but you could never think of all on the spot. I have been in this situation many times and have come up with a solution!
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          This is my most recent project that I started as a means of touching up my sql skills. Through the process, I became overly invested in the project and have since went beyond SQL to turing my database into a fullly fledged working web application. Though this project, I learned HTML and simple CSS to serve as the backbone of my app's user interface.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
