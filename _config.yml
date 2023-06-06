@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Used Cars Reccomender System
-        link: <a href= "https://github.com/kennyta0204/Cars">kennyta0204/Cars<\a>
+        link: kennyta0204/Cars
         # link_text: Project Website
         additional_links:
           - title:  Cars
@@ -72,15 +72,15 @@ content:
         description: | # this will include new lines to allow paragraphs
           This is my most recent project that I started as a means of touching up my sql skills. Through the process, I became overly invested in the project and have since went beyond SQL. I took what was meant to be a simple postgres database into a fully fledged working web application with a search and recommender function. Though this project, I learned HTML and simple CSS to serve as the backbone of my app's front end interface. To sum up my work, I aggregated data from various sources, created a postgres SQL database, trained and implemented an unsupervised learning model that finds similar vehicles using a custom defined distance metric, and coded a web app.
   
-  - title: Experience # Title for the section
+  - title: Experiences # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: JJ Tax & Accounting
+        # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Associate Tax Accountant
+        caption: June 2017 - July 2022
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -90,11 +90,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: university of Michigan
+        caption: 2022 - 2023
+        sub_title: Masters of Applied Data Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Econometrics was one of the only courses from my undergraduate studies that truly interested me. "If you like [econometrics], consider further studies in data science." - Professor Matzkins (My advance econometrics professor) to me
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
