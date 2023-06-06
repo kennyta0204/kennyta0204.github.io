@@ -110,21 +110,19 @@ content:
         title: University of Michigan, Ann Arbor
         caption: 2022 - 2023
         sub_title: Masters of Applied Data Science
-        quote: >
-          "If you like [econometrics]..., consider further studies in data science." - Professor Matzkins (My advance econometrics professor) to me
+        # quote: >
+        #   "If you like [econometrics]..., consider further studies in data science." - Professor Matzkins (My advance econometrics professor) to me
         description: | # this will include new lines to allow paragraphs
           During my time at this program, I acquired the key skills and knowledge required of a data scientist. I have learned to clean and preprocess various types of data, create stunning visualizations that comply with the grammar of graphics, train and evaluate machine learning/neural network models to solve complex problems, create pipelines to support such models, and interperet/share results.
           
-          I believe that the focus of one's studies should not only be how to do things, but also why we do things. With this mentality, I have absorbed vast knowledge on when techiniques and methods are appropriate or more fitting than others depending on the task.
-
-          Other than the foundational courses one would expect out of a data science ciriculum, I have taken social media analytics and reinforcement learning.
+          Other than the foundational courses one would expect out of a data science ciriculum, I have taken learning analytics, social media analytics and reinforcement learning.
       
       - layout: left
         title: University of California, Los Angeles
         caption: 2017 - 2019
         sub_title: Bachelors in Economics
-        quote: >
-          The best thing I learned in undergrad was how to learn.
+        # quote: >
+        #   The best thing I learned in undergrad was how to learn.
         description: |
           After spending two years at a community college, I transfered to the UCLA for a major in Economics. In addition to economics, I have taken every accounting/management course the institution had to offer. I wouldn't say I have a strong interest in either fields but I did develop a passion for econometrics, which would later inspire me to pursue data science.
 
@@ -136,7 +134,6 @@ content:
       - Gaming (Primarily crpg and retro rpgs)
       - App and Web development (although I just started)
       - Music (especially music with voice synthsizers, which involves deep learning) 
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
