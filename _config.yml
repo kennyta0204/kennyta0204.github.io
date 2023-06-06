@@ -70,7 +70,7 @@ content:
         quote: >
           Ever have a friend come to you for advice regarding what car they should get? You hear their criteria and try to think of all the possible vehicles that fit their description but you could never think of all on the spot. I have been in this situation many times and have come up with a solution!
         description: | # this will include new lines to allow paragraphs
-          This is my most recent project that I started as a means of touching up my sql skills. Through the process, I became overly invested in the project and have since went beyond SQL to turing my database into a fullly fledged working web application. Though this project, I learned HTML and simple CSS to serve as the backbone of my app's user interface.
+          This is my most recent project that I started as a means of touching up my sql skills. Through the process, I became overly invested in the project and have since went beyond SQL. I took what was meant to be a simple postgres database into a fullly fledged working web application. Though this project, I learned HTML and simple CSS to serve as the backbone of my app's user interface.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
