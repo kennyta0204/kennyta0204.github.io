@@ -81,8 +81,8 @@ content:
         # link_text: boringcompany.com
         sub_title: Associate Tax Accountant
         caption: June 2017 - July 2022
-        quote: >
-          You may be curious to know why I left the field of accounting. Although I found the job to be unfulfilling. 
+        # quote: >
+        #   You may be curious to know why I left the field of accounting. Although I found the job to be unfulfilling. 
         description: | # this will include new lines to allow paragraphs
           As a Tax accountant working at a relatively small firm, I participated in nearly every service the firm had to offer. My duties includes tax preparation, tax consulting, bookkeeping, payroll preparation, tax law research, and more.
 
@@ -94,8 +94,8 @@ content:
         title: Blue Shield of California, Promise Health Plan (Formerly Care1st)
         sub_title: Claims Data Processor/Analyst Intern
         caption: June 2018 - December 2018
-        quote: >
-          Testing...
+        # quote: >
+        #   Testing...
         description: |
           Truth be told, when I applied for the position, I was expecting the role to be more accounting and finance related.
 
