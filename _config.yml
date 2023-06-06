@@ -90,6 +90,17 @@ content:
 
           Outside of my basic role, I also served as a humble inhouse IT, troubleshooting and solving various problems encountered by our computers, systems, and software. 
 
+      - layout: left
+        title: Blue Shield of California, Promise Health Plan (Formerly Care1st)
+        sub_title: Claims Data Processor/Analyst Intern
+        caption: June 2018 - December 2018
+        description: |
+          Truth be told, when I applied for the position, I was expecting the role to be more accounting and finance related.
+
+          My primary duties was to record and process insurance claims. This position gave me the opportunity to work closely with data analysts who taught me how to write convoluted Excel VBA macro scripts.
+          
+          I participated in the implementation of a check tracking system in which a web application was developed to track payments above an amount threshold. 
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -112,7 +123,7 @@ content:
         sub_title: Bachelors in Economics
         quote: >
           The best thing I learned in undergrad was how to learn.
-        description:
+        description: |
           After spending two years at a community college, I transfered to the UCLA for a major in Economics. In addition to economics, I have taken every accounting/management course the institution had to offer. I wouldn't say I have a strong interest in either fields but I did develop a passion for econometrics, which would later inspire me to pursue data science.
 
   - title: A Little More About Me
