@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Used Cars Reccomender System
+        title: Used Cars Database & Recommender System
         link: https://github.com/kennyta0204/Cars
         # link_text: Project Website
         additional_links:
