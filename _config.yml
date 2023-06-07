@@ -134,8 +134,8 @@ content:
         title: Other
         sub_title: Math Tutoring
         caption: 2015 - Present
-        quote: >
-          "You want to cover the floor of your 15x12 minecraft home with wood, how many wood blocks would you need?" - Me to a student who loves minecraft
+        # quote: >
+        #   "You want to cover the floor of your 15x12 minecraft home with wood, how many wood blocks would you need?" - Me to a student who loves minecraft
         description: |
           In addition to medical billing, I worked on and off as a part-time math tutor to students at math levels ranging from elementary math to precalculus. It was through these experiences, I was able to find joy in teaching. I learned to get students engaged with math by incorporating humor and relatable examples with complex topics. By applying the same teaching methods I use on my students to my own self-learning, I was able to realize my personal enjoy in learning.
 
