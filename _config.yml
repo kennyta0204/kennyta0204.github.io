@@ -174,7 +174,7 @@ content:
 
       My Buddies
 
-      <img src="images/yuto.jpg" width="250" height="250"><img src="images/turtle.jpg" width="250" height="250">
+      <img src="images/yuto.jpg" width="250" height="250"><img src="images/turtle.jpg" width="250" height="300">
 
 # Footer
 footer_show_references: true
