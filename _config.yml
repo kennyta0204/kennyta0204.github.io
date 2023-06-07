@@ -71,7 +71,30 @@ content:
           Ever have a friend come to you for advice regarding what car they should get? You hear their criteria and try to think of all the possible vehicles that fit their description but you could never think of all on the spot. I have been in this situation many times and have come up with a solution!
         description: | # this will include new lines to allow paragraphs
           This is my most recent project that I started as a means of touching up my sql skills. Through the process, I became overly invested in the project and have since went beyond SQL. I took what was meant to be a simple postgres database into a fully fledged working web application with a search and recommender function. Though this project, I learned HTML and simple CSS to serve as the backbone of my app's front end interface. To sum up my work, I aggregated data from various sources, created a postgres SQL database, trained and implemented an unsupervised learning model that finds similar vehicles using a custom defined distance metric, and coded a web app.
-  
+      - layout: top-middle
+        title: Deep Learning for Lyric Generation & Unsupervised Topic Modeling
+        link: https://github.com/kennyta0204/Deep-Learning-for-Lyric-Generation-Unsupervised-Topic-Modeling
+        additional_links:
+          - title: Lyric Generation
+            icon: fab fa-github
+            url: https://github.com/kennyta0204/Deep-Learning-for-Lyric-Generation-Unsupervised-Topic-Modeling
+        quote: >
+          If you asked me for my greatest strength, I would say it is my creativity as I am able to think of many great ideas. If you asked for my weakness, I would say that I am overly optimistic as most of my ideas don't work as I had hoped.
+        description: |
+          For the capstone project of my masters program, my team wanted to do a playfull project in which we would build deep learning models to generate lyrics for mainstream American artists. It was through this project where I learned the harsh reality that raw data does not always come clean with little issues. The dataset we acquired from Kaggle, was a lyrics dataset contributed by crowd sourcing. It was unstructured, full of spelling errors, and lacked a key feature we initially desired, the years in which the songs were written. One of my responsibilities, was to aggregate years via other sources, clean, and preprocess the data. On top of preprocessing the data, I created topic models and word clouds to summarize the main themes of an artist's discography.
+      - layout: top-middle
+        title: Classifying and Analyzing Dementia Patients Using Convolutional Neural Networks
+        link: https://github.com/kennyta0204/OASIS_CNN_dementia_patterns
+        additional_links:
+          - title: Dementia Classification
+            icon: fab fa-github
+            url: https://github.com/kennyta0204/OASIS_CNN_dementia_patterns
+        quote: >
+          "How come these x-ray images are in 4 dimensional arrays?" It was at this moment I learned what an MRI scan really was and realized I may have bit more than I could chew.
+        description: |
+          Prior to this project, I have built many machine learning models via scikit-learn. This was the project where I learned how to use TensorFlow and build a CNN model. Here, I was facing a data type that was foreign to me, nifti 4 dimensional arrays representing a complete 3D scan of a brain. My teammate and I built CNN model to classify patients with dementia. In our analysis report, we compare the results of a Neural Network to that of a Random Forest model and a Naive Bayes probabilistic model in metrics of accuracy and recall. 
+
+          In addition to this, we cluster patients using features extracted from our CNN model to find correlation between our cluster labels with age, gender, and ground-truth dementia labels.
   - title: Experiences # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -104,19 +127,19 @@ content:
           I participated in the implementation of a check tracking system in which a web application was developed to track payments above an amount threshold. 
       - layout: left
         title: Dr. Chun Yeh Wang, MD Gynecology-Obstetrics and Endocrinology
-        subtitle: Medical Insurance Biller
+        sub_title: Medical Insurance Biller
         caption: 2014 - 2016
         description: |
           I worked part-time as a Medical Insurance Biller throughout my later years of highschool and early years of college as a means of supporting myself. 
           Here, I learned the inner-workings of the medical billing cycle including requesting authorizations, billing medical procedures, following up with claim statuses, and recording receivables. Other than my primary duty, I served as a front desk receptionist.
       - layout: left
         title: Other
-        subtitle: Math Tutoring
+        sub_title: Math Tutoring
         caption: 2015 - Present
         quote: >
           "You want to cover the floor of your 15x12 minecraft home with wood, how many wood blocks would you need?" - Me to a student who loves minecraft
         description: |
-          Throughout my life, I worked on and off as a part-time math tutor to students at math levels ranging from elementary math to precalculus. It was through these experiences, I was able to find joy in teaching. I learned to get students engaged with math by incorporating humor and relatable examples with complex topics. By applying the same teaching methods I use on my students, on my own
+          Throughout my life, I worked on and off as a part-time math tutor to students at math levels ranging from elementary math to precalculus. It was through these experiences, I was able to find joy in teaching. I learned to get students engaged with math by incorporating humor and relatable examples with complex topics. By applying the same teaching methods I use on my students to my own self-learning, I was able to realize my personal enjoy in learning.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -151,7 +174,7 @@ content:
       - Music (especially music with voice synthsizers, which involves deep learning) 
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
