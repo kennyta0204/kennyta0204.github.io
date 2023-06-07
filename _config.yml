@@ -174,11 +174,11 @@ content:
 
       My dog
 
-      ![yuto](images/yuto.jpg "Yuto")
+      ![yuto](images/yuto.jpg "Yuto" =250x250)
 
       My rock
-      
-      ![turtle](images/turtle.jpg "Turtle")
+
+      ![turtle](images/turtle.jpg "Turtle" =250x250)
 
 # Footer
 footer_show_references: true
