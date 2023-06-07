@@ -91,7 +91,7 @@ content:
           Outside of my basic role, I also served as a humble inhouse IT, troubleshooting and solving various problems encountered by our computers, systems, and software. 
 
       - layout: left
-        title: Blue Shield of California, Promise Health Plan (Formerly Care1st)
+        title: Blue Shield of California, Promise Health Plan
         sub_title: Claims Data Processor/Analyst Intern
         caption: June 2018 - December 2018
         # quote: >
@@ -102,6 +102,21 @@ content:
           My primary duties was to record and process insurance claims. This position gave me the opportunity to work closely with data analysts who taught me how to write convoluted Excel VBA macro scripts.
           
           I participated in the implementation of a check tracking system in which a web application was developed to track payments above an amount threshold. 
+      - layout: left
+        title: Dr. Chun Yeh Wang, MD Gynecology-Obstetrics and Endocrinology
+        subtitle: Medical Insurance Biller
+        caption: 2014 - 2016
+        description: |
+          I worked part-time as a Medical Insurance Biller throughout my later years of highschool and early years of college as a means of supporting myself. 
+          Here, I learned the inner-workings of the medical billing cycle including requesting authorizations, billing medical procedures, following up with claim statuses, and recording receivables. Other than my primary duty, I served as a front desk receptionist.
+      - layout: left
+        title: Other
+        subtitle: Math Tutoring
+        caption: 2015 - Present
+        quote: >
+          "You want to cover the floor of your 15x12 minecraft home with wood, how many wood blocks would you need?" - Me to a student who loves minecraft
+        description: |
+          Throughout my life, I worked on and off as a part-time math tutor to students at math levels ranging from elementary math to precalculus. It was through these experiences, I was able to find joy in teaching. I learned to get students engaged with math by incorporating humor and relatable examples with complex topics. By applying the same teaching methods I use on my students, on my own
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
