@@ -172,14 +172,9 @@ content:
       - Music (especially music with voice synthsizers, which involves deep learning) 
       - Animals (I have a Dog and a Tortoise)
 
-      My dog
+      My Buddies
 
-      <img src="images/yuto.jpg" width="250" height="250">
-      ![yuto](images/yuto.jpg "Yuto" =250x250)
-
-      My rock
-
-      ![turtle](images/turtle.jpg "Turtle" =250x250)
+      <img src="images/yuto.jpg" width="250" height="250"><img src="images/turtle.jpg" width="250" height="250">
 
 # Footer
 footer_show_references: true
