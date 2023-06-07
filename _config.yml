@@ -120,11 +120,9 @@ content:
         # quote: >
         #   Testing...
         description: |
-          Truth be told, when I applied for the position, I was expecting the role to be more accounting and finance related.
-
-          My primary duties was to record and process insurance claims. This position gave me the opportunity to work closely with data analysts who taught me how to write convoluted Excel VBA macro scripts.
+          As an intern, I spent most of my time in office shadowing others. One of my mentors was a claims processor, which bestowed the task of recording and processing insurance claims. My primary function was to analyze claims data for errors, process the claims, record payments, and print checks. This role gave me insight on the payment process of an insurance company. Furthermore, I was given the opportunity to work closely with data analysts who taught me how to write Excel VBA macro scripts, in which I incorporated in my own recording duties. 
           
-          I participated in the implementation of a check tracking system in which a web application was developed to track payments above an amount threshold. 
+          In addition to my main responsibilities, I participated in the implementation of a 2-day check tracking policy where I worked with software developers by providing insight on necessary fields and functions to create an application that tracked the status of large payments.
       - layout: left
         title: Dr. Chun Yeh Wang, MD Gynecology-Obstetrics and Endocrinology
         sub_title: Medical Insurance Biller
@@ -139,7 +137,7 @@ content:
         quote: >
           "You want to cover the floor of your 15x12 minecraft home with wood, how many wood blocks would you need?" - Me to a student who loves minecraft
         description: |
-          Throughout my life, I worked on and off as a part-time math tutor to students at math levels ranging from elementary math to precalculus. It was through these experiences, I was able to find joy in teaching. I learned to get students engaged with math by incorporating humor and relatable examples with complex topics. By applying the same teaching methods I use on my students to my own self-learning, I was able to realize my personal enjoy in learning.
+          In addition to medical billing, I worked on and off as a part-time math tutor to students at math levels ranging from elementary math to precalculus. It was through these experiences, I was able to find joy in teaching. I learned to get students engaged with math by incorporating humor and relatable examples with complex topics. By applying the same teaching methods I use on my students to my own self-learning, I was able to realize my personal enjoy in learning.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
