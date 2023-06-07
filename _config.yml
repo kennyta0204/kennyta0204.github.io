@@ -90,11 +90,11 @@ content:
             icon: fab fa-github
             url: https://github.com/kennyta0204/OASIS_CNN_dementia_patterns
         quote: >
-          "How come these x-ray images are in 4 dimensional arrays?" It was at this moment I learned what an MRI scan really was and realized I may have bit more than I could chew.
+          "How come these x-ray images are in 4-dimensional arrays?" It was at this moment I learned what an MRI scan really was and realized I may have bit more than I could chew.
         description: |
-          Prior to this project, I have built many machine learning models via scikit-learn. This was the project where I learned how to use TensorFlow and build a CNN model. Here, I was facing a data type that was foreign to me, nifti 4 dimensional arrays representing a complete 3D scan of a brain. My teammate and I built CNN model to classify patients with dementia. In our analysis report, we compare the results of a Neural Network to that of a Random Forest model and a Naive Bayes probabilistic model in metrics of accuracy and recall. 
+          Prior to this project, I have built many machine learning models via scikit-learn. This was the project where I learned how to use TensorFlow and build a CNN model. Here, I was facing a data type that was foreign to me, 4-dimensional arrays in nifti format representing a complete 3D scan of a brain. My teammate and I built a CNN model to classify patients with dementia. In our analysis report, we compare the results of a Neural Network to that of a Random Forest model and a Naive Bayes probabilistic model in metrics of accuracy and recall. 
 
-          In addition to this, we cluster patients using features extracted from our CNN model to find correlation between our cluster labels with age, gender, and ground-truth dementia labels.
+          In addition to this, we cluster patients with k-means, dbscan, and agglomerative clustering using features extracted from our CNN model to find correlation between our images with age, gender, and ground-truth dementia labels.
   - title: Experiences # Title for the section
     layout: list # Type of content section (list/text)
     content:
