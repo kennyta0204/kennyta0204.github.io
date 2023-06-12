@@ -64,9 +64,10 @@ content:
           - title:  Cars
             icon: fab fa-github
             url: https://github.com/kennyta0204/Cars
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          - title: Cars
+            icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=Ok0_RiQ5DlM
+
         quote: >
           Ever have a friend come to you for advice regarding what car they should get? You hear their criteria and try to think of all the possible vehicles that fit their description but you could never think of all on the spot. I have been in this situation many times and have come up with a solution!
         description: | # this will include new lines to allow paragraphs
