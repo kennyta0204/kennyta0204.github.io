@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello! My name is Kenny and I am an aspiring data scientist with an overflowing passion for the field. I recently graduated from the Univrsity of Michigan, Ann Arbor with a Master's degree in Applied Data Science. Prior to my graduate studies, I studied Economics and Accounting during my undergraduate years and worked as a Tax Accountant for two years before pursuing Data Science. 
 
-  I have a strong interest in predictive modeling with project experiences in various machine learning techiniques/algorithms such as natural language processing, regression modeling, neural networks, and more. Outside of machine learning, I am confident with SQL and have  dabbled with making simple web applications. My primary programming language is Python and I have limited experiences with Matlab.
+  Creativity is my forte and data science is my passion. I have project experiences in various machine learning techiniques/algorithms such as natural language processing, regression modeling, neural networks, and more. Outside of machine learning, I am confident with SQL and have dabbled with making simple web applications. My primary programming language is Python and I have limited experiences with Matlab.
 
 content:
   - title: Projects # Title for the section
