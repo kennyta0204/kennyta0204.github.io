@@ -56,6 +56,17 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top_middle
+        title: Measuring the effects of Manual Transmission on CO2 Emission & Fuel Efficiency using Linear Regression
+        link: https://github.com/kennyta0204/Vehicle_co2_analysis
+        additional_links:
+          - title: Vehicle CO2 & MPG Analysis
+            icon: fab fa-github
+            url: https://github.com/kennyta0204/Vehicle_co2_analysis
+        quote: >
+          This was suppose to be my first article publication on Medium; however, due to changes to Medium's integration token policy, I have yet to share my notebook as an article. I have always enjoyed writing and I hope to share more of my work as blog posts in the future.
+        description: |
+          This project is an statistical analysis on the differences of CO2 output and fuel efficiency between manual transmission and automatic transmission. Here, I use causal inference techniques, specifically multiple linear regression, to measure the average treatment effects of manual transmission on CO2 emission and mpg. This analysis served as a refresher on the statistical techniques I learned through econometrics and causal inference. The codes are written in a Jupyter Notebook and is written in the form of an article that walks through my data cleaning and modeling techniques.
       - layout: top-middle
         title: Used Cars Database & Recommender System
         link: https://github.com/kennyta0204/Cars
