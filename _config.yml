@@ -56,8 +56,8 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top_middle
-        title: Measuring the effects of Manual Transmission on CO2 Emission & Fuel Efficiency using Linear Regression
+      - layout: top-middle
+        title: Measuring the effects of Manual Transmission on CO2 Emission & Fuel Efficiency
         link: https://github.com/kennyta0204/Vehicle_co2_analysis
         additional_links:
           - title: Vehicle CO2 & MPG Analysis
