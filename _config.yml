@@ -75,13 +75,14 @@ content:
           - title:  Cars
             icon: fab fa-github
             url: https://github.com/kennyta0204/Cars
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          - title: Cars
+            icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=Ok0_RiQ5DlM
+
         quote: >
           Ever have a friend come to you for advice regarding what car they should get? You hear their criteria and try to think of all the possible vehicles that fit their description but you could never think of all on the spot. I have been in this situation many times and have come up with a solution!
         description: | # this will include new lines to allow paragraphs
-          This is my most recent project that I started as a means of touching up my sql skills. Through the process, I became overly invested in the project and have since went beyond SQL. I took what was meant to be a simple postgres database into a fully fledged working web application with a search and recommender function. Though this project, I learned HTML and simple CSS to serve as the backbone of my app's front end interface. To sum up my work, I aggregated data from various sources, created a postgres SQL database, trained and implemented an unsupervised learning model that finds similar vehicles using a custom defined distance metric, and coded a web app.
+          This is my most recent project that I started as a means of touching up my sql skills. Through the process, I became overly invested in the project and have since went beyond SQL. I took what was meant to be a simple postgres database into a fully fledged working web application with a search and recommender function. Though this project, I learned HTML and simple CSS to serve as the backbone of my app's front end interface. To sum up my work, I aggregated data from various sources, created a postgres SQL database, trained and implemented an unsupervised learning model that finds similar vehicles using a custom defined distance metric, and coded a fully-functional web application.
       - layout: top-middle
         title: Deep Learning for Lyric Generation & Unsupervised Topic Modeling
         link: https://github.com/kennyta0204/Deep-Learning-for-Lyric-Generation-Unsupervised-Topic-Modeling
